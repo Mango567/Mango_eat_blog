@@ -1,16 +1,24 @@
 ## Welcome to the Various foods blog
 
 
-### Markdown
+### Food
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ There are a various of food options such as Fastfood,desserts, any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth.Also fastfood that can be prepared quickly and easily and is sold in restaurants and snack bars as a quick meal or to be taken out.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Fastfood
+Because fast food is high in sodium, saturated fat, trans fat, and cholesterol, it isn't something you should eat often. Eating too much over a long period of time can lead to health problems such as high blood pressure, heart disease, and obesity.
+
+
+## Heathly foods
+
+
+
+
+
+### Desserts
 
 - Bulleted
 - List
