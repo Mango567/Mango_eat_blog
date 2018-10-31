@@ -1,9 +1,11 @@
-## Welcome to the Various foods blog
+# Welcome to the Various foods blog
 
 
 ### Food
 
- There are a various of food options such as Fastfood,desserts, any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth.Also fastfood that can be prepared quickly and easily and is sold in restaurants and snack bars as a quick meal or to be taken out.
+ There are a various of food options such as Fastfood,desserts, any nutritious substance that people or animals eat or drink, 
+ or that plants absorb, in order to maintain life and growth.
+ Also fastfood that can be prepared quickly and easily and is sold in restaurants and snack bars as a quick meal or to be taken out.
 
 ```markdown
 Syntax highlighted code block
@@ -13,6 +15,7 @@ Because fast food is high in sodium, saturated fat, trans fat, and cholesterol, 
 
 
 ## Heathly foods
+Health foods are natural foods without artificial ingredients that people believe are good for health.
 
 
 
