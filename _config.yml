@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+theme: Types of foods 
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -32,8 +32,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # instagram_username: Jaydenp9949
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+plugins: none
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
